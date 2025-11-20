@@ -1,0 +1,4 @@
+[submodule "SHELL_SCRIPTS"]
+	path = SHELL_SCRIPTS
+	url = git@github.com:CypherWhisperer/SHELL_SCRIPTS.git
+	branch = master
