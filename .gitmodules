@@ -2,7 +2,3 @@
 	path = SHELL_SCRIPTS
 	url = git@github.com:CypherWhisperer/SHELL_SCRIPTS.git
 	branch = master
-[submodule "LINUX_PROJECTS/CYPHER_OS"]
-	path = LINUX_PROJECTS/CYPHER_OS
-  url = git@github.com:CypherWhisperer/CypherOS
-  branch = master
