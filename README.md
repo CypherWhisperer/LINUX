@@ -1,3 +1,3 @@
 # LINUX
 
-- This Repository Contains Personal Linux Projects and Simple Shell scripts
+Repository For My Linux Related Projects.
